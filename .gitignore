@@ -1,0 +1,5 @@
+env
+*.txt
+*.wav
+*.env
+*.m4a
